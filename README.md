@@ -53,14 +53,14 @@ Run the project (use the appropriate filename, ending in .py)
 
 ## Lessons Learned
 
-- Python3 is an incredible language
+- Python3 is an incredible language  
 These capstones allowed me to see how the Python programming language could be used to display cli applications to a user. I'd already known some of the language so it was a good chance to renew that knowlege and put it towards projects that resemble some real-world examples.
 
-- SQL
+- SQL  
 I've previously had experience with MySQL so the transition into SQLite was quite painless. After building the project and including f-string searches, I realised that if this was a real-world application, the risk of SQL Injection is built into my code.
 This is currently being corrected and will be fixed either in the ebookstore directory or as a standalone GUI application.
 
-- Tabulate
+- Tabulate  
 Tabulate (https://pypi.org/project/tabulate/) is an amazing module, allowing the display of results from lists or database queries. This makes for a much better experience rather than the standard output.
 
 
