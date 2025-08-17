@@ -64,7 +64,4 @@ This is currently being corrected and will be fixed either in the ebookstore dir
 Tabulate (https://pypi.org/project/tabulate/) is an amazing module, allowing the display of results from lists or database queries. This makes for a much better experience rather than the standard output.
 
 
-## Authors
-
-- [@mbutcherdev](https://www.github.com/mbutcherdev)
 
